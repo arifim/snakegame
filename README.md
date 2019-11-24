@@ -1,2 +1,2 @@
 # snakegame
-this is the legendar snake game on javafx
+snake game on javafx
